@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👋 About Me:
 
 **Full Stack Developer** with cloud infrastructure experience and a strong foundation in modern web technologies.
 
