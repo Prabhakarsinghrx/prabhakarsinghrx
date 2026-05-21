@@ -1,5 +1,21 @@
 # 💫 About Me:
-Final-year MCA student focused on becoming a Full Stack Developer.<br><br>Strong in frontend fundamentals (HTML, CSS, JavaScript, React) and currently building depth in Java and Data Structures & Algorithms.<br><br>Cloud Engineer at Accenture with hands-on experience in real-world systems, troubleshooting, and infrastructure.<br><br>Actively preparing for product-based companies by strengthening problem-solving, backend development, and system design.<br><br>Goal: Build scalable applications and crack top tech companies.
+
+**Full Stack Developer** with cloud infrastructure experience and a strong foundation in modern web technologies.
+
+I build **responsive frontend systems, backend services, and cloud-ready applications** using **React, JavaScript, Node.js, and related technologies**.
+
+Currently working at **Accenture** in **Cloud Infrastructure**, gaining hands-on experience with **real-world systems, troubleshooting, deployment environments, and operational workflows**.
+
+### 🚀 Current Focus
+
+- Backend Development  
+- Java  
+- Data Structures & Algorithms  
+- Scalable System Design  
+
+---
+
+💡 **Interested in building scalable products and solving practical engineering problems.**
 
 
 ## 🌐 Socials:
