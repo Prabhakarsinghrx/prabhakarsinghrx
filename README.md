@@ -63,5 +63,3 @@ Currently working at **Accenture** in **Cloud Infrastructure**, gaining hands-on
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 
 ---
-
-![](https://komarev.com/ghpvc/?username=Prabhakarsinghrx&style=for-the-badge&color=0e75b6)
